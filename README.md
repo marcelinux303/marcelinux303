@@ -17,12 +17,13 @@ Local and offline by design — no telemetry, no network access and no runtime L
 
 → `marcelinux303/epoche`
 
-### Playplane
-An open-source **Ansible control plane** focused on making infrastructure automation easier to visualize and operate.
+### Playplane — Work in progress
+
+An **Ansible control plane** focused on making infrastructure automation easier to visualize and operate.
 
 Runs, inventories, playbooks and real-time execution events from a modern web interface.
 
-→ `stackflyhq/playplane`
+Currently under active development.
 
 ### Stackfly
 My open-source playground for building tools around **infrastructure, automation and operations**.
