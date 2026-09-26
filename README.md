@@ -11,11 +11,15 @@ Outside of production environments, I like building tools, experimenting with in
 ## What I'm working on
 
 ### Epoché
+
 A native **Omarchy / Quickshell plugin** bringing short moments of technical reflection into the desktop.
 
 Local and offline by design — no telemetry, no network access and no runtime LLM.
 
-→ `marcelinux303/epoche`
+**Available on the official Omarchy Plugin Marketplace.**
+
+→ [Omarchy Plugins](https://plugins.omarchy.org/plugin.html?id=io.github.marcelinux303.epoche)  
+→ [Source](https://github.com/marcelinux303/epoche)
 
 ### Playplane — Work in progress
 
